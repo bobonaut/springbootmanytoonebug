@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Spring boot ManyToOne bug" />
+        <module name="spring-boot-one-two-six-jpa-many-to-one" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring boot ManyToOne bug" target="1.8" />
+      <module name="spring-boot-one-two-six-jpa-many-to-one" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
